@@ -1,0 +1,299 @@
+Главное меню|Main menu|Головне меню|Menú principal
+Закрыть|Close|Закрити|Cerrar
+Все попытки|All attempts|Усі спроби|Todos los intentos
+Трай #|Attempt #|Спроба #|Intento #
+Попытка #|Attempt #|Спроба #|Intento #
+Нажмите: все / текущая попытка|Click to switch between all and current attempt|Натисніть: усі / поточна спроба|Pulsa para alternar entre todos y el intento actual
+Хардкор •\s|Hardcore •\s|Хардкор •\s|Hardcore •\s
+Сейчас трай #|Current attempt #|Поточна спроба #|Intento actual #
+Сложность: HARD • Хардкор|Difficulty: Hard • Hardcore|Складність: важка • Хардкор|Dificultad: difícil • Hardcore
+Лучшие траи|Best attempts|Найкращі спроби|Mejores intentos
+Рейтинг по максимальной длительности|Ranked by longest survival|Рейтинг за тривалістю виживання|Clasificación por tiempo de supervivencia
+Рекорды сохраняются после откатов|Records survive rollbacks|Рекорди зберігаються після відкотів|Los récords se conservan tras restaurar
+Игроки|Players|Гравці|Jugadores
+Время игры и личные профили|Playtime and player profiles|Час гри й особисті профілі|Tiempo de juego y perfiles
+Кто чаще умирал|Most deaths|Найбільше смертей|Más muertes
+Шахтёры|Miners|Шахтарі|Mineros
+Добыча руды|Ore mining|Видобуток руди|Minería de menas
+Добыча блоков|Blocks mined|Видобуток блоків|Bloques extraídos
+Строители|Builders|Будівельники|Constructores
+Охотники|Hunters|Мисливці|Cazadores
+Рыболовы|Fishers|Рибалки|Pescadores
+Микро-подвиги|Mini achievements|Мікроподвиги|Minilogros
+Достижения|Advancements|Досягнення|Progresos
+Путешественники|Explorers|Мандрівники|Exploradores
+Моя статистика|My statistics|Моя статистика|Mis estadísticas
+Проверить экран смерти|Preview death screen|Переглянути екран смерті|Previsualizar pantalla de muerte
+Только для вас • Без сброса мира|Private preview • No world reset|Приватний перегляд • Без скидання світу|Vista privada • Sin reiniciar el mundo
+Моё мини-задание|My mini quest|Моє мінізавдання|Mi minimisión
+Босс-бар с личным прогрессом|Boss bar with personal progress|Смуга боса з особистим прогресом|Barra de jefe con progreso personal
+Символическая награда за суету|A token reward for your effort|Символічна винагорода за старання|Una recompensa simbólica por tu esfuerzo
+Мои награды •\s|My rewards •\s|Мої винагороди •\s|Mis recompensas •\s
+Призы хранятся здесь, пока вы их не заберёте|Rewards stay here until claimed|Призи зберігаються тут, доки ви їх не заберете|Los premios se guardan aquí hasta que los reclames
+При новой попытке хранилище очистится|A new attempt clears the reward chest|Нова спроба очистить сховище|Un nuevo intento vacía el almacén
+Настройки интерфейса|Interface settings|Налаштування інтерфейсу|Ajustes de interfaz
+Показать или скрыть босс-бар|Show or hide the boss bar|Показати або сховати смугу боса|Mostrar u ocultar la barra de jefe
+Панель администратора|Admin panel|Панель адміністратора|Panel de administración
+Смерти|Deaths|Смерті|Muertes
+Время игры|Playtime|Час гри|Tiempo de juego
+Сломано блоков|Blocks broken|Зламано блоків|Bloques rotos
+Добыто руды|Ores mined|Видобуто руди|Menas extraídas
+Поставлено блоков|Blocks placed|Розміщено блоків|Bloques colocados
+Убито существ|Mobs killed|Убито істот|Criaturas eliminadas
+Поймано улова|Successful catches|Спіймано улову|Capturas
+Пройдено|Distance travelled|Пройдено|Distancia recorrida
+Враждебные мобы|Hostile mobs|Ворожі істоти|Criaturas hostiles
+Алмазная руда|Diamond ore|Діамантова руда|Mena de diamante
+Микро-задание • Ради интереса|Mini quest|Мінізавдання|Minimisión
+Задания сейчас недоступны|Quests are currently unavailable|Завдання зараз недоступні|Las misiones no están disponibles
+Нужен Survival в мире текущей попытки.|Play in Survival in the current attempt.|Потрібен режим виживання у світі поточної спроби.|Juega en supervivencia en el mundo del intento actual.
+Администратор также может отключить задания.|An administrator can also disable quests.|Адміністратор також може вимкнути завдання.|Un administrador también puede desactivar las misiones.
+Прогресс:\s|Progress:\s|Прогрес:\s|Progreso:\s
+Награда: 1 ×\s|Reward: 1 ×\s|Винагорода: 1 ×\s|Recompensa: 1 ×\s
+До нового задания:\s|Next quest in:\s|До нового завдання:\s|Próxima misión en:\s
+Мини-задания|Mini quests|Мінізавдання|Minimisiones
+Хардкор • Настройки интерфейса|Hardcore • Interface settings|Хардкор • Налаштування інтерфейсу|Hardcore • Ajustes de interfaz
+Настройка сохранена|Setting saved|Налаштування збережено|Ajuste guardado
+Награды • Трай #|Rewards • Attempt #|Винагороди • Спроба #|Recompensas • Intento #
+Ваши трофеи •\s|Your trophies •\s|Ваші трофеї •\s|Tus trofeos •\s
+Пока пусто|Empty for now|Поки порожньо|Vacío por ahora
+Профиль •\s|Profile •\s|Профіль •\s|Perfil •\s
+Пока нет записей|No records yet|Записів ще немає|Todavía no hay registros
+Лучшие траи • Рекорды времени|Best attempts • Time records|Найкращі спроби • Рекорди часу|Mejores intentos • Récords de tiempo
+Рекордов пока нет|No records yet|Рекордів ще немає|Todavía no hay récords
+Хардкор • Администратор|Hardcore • Administration|Хардкор • Адміністрування|Hardcore • Administración
+Сохранения и откат|Backups and restore|Копії та відновлення|Copias y restauración
+Новая попытка|New attempt|Нова спроба|Nuevo intento
+Очистка старых миров|Clean up old worlds|Очищення старих світів|Limpiar mundos antiguos
+История попыток|Attempt history|Історія спроб|Historial de intentos
+Сохранения смерти • Выбор копии|Death backups • Choose a backup|Копії після смерті • Вибір копії|Copias tras muerte • Seleccionar copia
+Подтвердить|Confirm|Підтвердити|Confirmar
+Отмена|Cancel|Скасувати|Cancelar
+Страница\s|Page\s|Сторінка\s|Página\s
+Недостаточно прав|Permission denied|Недостатньо прав|Permisos insuficientes
+Новая попытка через\s|Next attempt in\s|Нова спроба за\s|Nuevo intento en\s
+\sзавершена.\s| ended.\s| завершилася.\s| ha terminado.\s
+\sзавершён| ended| завершено| ha terminado
+Продержались:\s|Survived for:\s|Протрималися:\s|Supervivencia:\s
+. Создаётся новый мир…|. Creating a new world…|. Створюється новий світ…|. Creando un nuevo mundo…
+\sпогиб| died| загинув| murió
+Администратор|Administrator|Адміністратор|Administrador
+Игрок|Player|Гравець|Jugador
+СПАСИБО НАШЕМУ БЕЗДАРЮ\nЗА ОБНОВЛЕНИЕ МИРА|THANKS TO OUR CLOWN\nFOR REFRESHING THE WORLD|ДЯКУЄМО НАШОМУ НЕВДАСІ\nЗА ОНОВЛЕННЯ СВІТУ|GRACIAS A NUESTRO PAYASO\nPOR RENOVAR EL MUNDO
+%dч %02dм %02dс|%dh %02dm %02ds|%dг %02dхв %02dс|%dh %02dm %02ds
+Нужен OP или право hardcorereset.admin.|Requires OP or hardcorereset.admin.|Потрібен OP або право hardcorereset.admin.|Requiere OP o hardcorereset.admin.
+Не удалось выполнить действие|Action failed|Не вдалося виконати дію|No se pudo realizar la acción
+Действие не выполнено|Action failed|Дію не виконано|Acción fallida
+Попробуйте после завершения перехода.|Try again after the transition.|Спробуйте після завершення переходу.|Vuelve a intentarlo tras la transición.
+Подробности записаны в консоль сервера.|See the server console for details.|Подробиці в консолі сервера.|Consulta la consola del servidor.
+Готово! Награда ждёт в хранилище.|Done! Your reward is in storage.|Готово! Винагорода чекає у сховищі.|¡Listo! Tu recompensa está en el almacén.
+Пропущено. Ожидайте окончания таймера.|Skipped. Wait for the timer to end.|Пропущено. Дочекайтеся кінця відліку.|Omitida. Espera a que termine la cuenta atrás.
+Успейте до конца отсчёта.|Finish before time runs out.|Встигніть до кінця відліку.|Termina antes de que se agote el tiempo.
+Ожидание следующего задания|Waiting for next quest|Очікування наступного завдання|Esperando la próxima misión
+Пропустить задание|Skip quest|Пропустити завдання|Omitir misión
+Награды за пропуск нет.|Skipping grants no reward.|За пропуск винагороди немає.|Omitir la misión no da recompensa.
+Пропуск не ускоряет следующий цикл.|Skipping keeps the same timer.|Пропуск не пришвидшує наступний цикл.|Omitir la misión mantiene el mismo temporizador.
+Скрыть босс-бар|Hide boss bar|Сховати смугу боса|Ocultar barra de jefe
+Показать босс-бар|Show boss bar|Показати смугу боса|Mostrar barra de jefe
+Прогресс считается и со скрытым босс-баром.|Progress is tracked with the bar hidden.|Прогрес враховується зі схованою смугою.|El progreso se registra con la barra oculta.
+Хранилище наград •\s|Reward storage •\s|Сховище винагород •\s|Almacén de recompensas •\s
+Заберите только то, что вам нужно.|Claim what you need.|Заберіть лише те, що вам потрібно.|Recoge lo que necesites.
+Содержимое исчезнет при новой попытке.|A new attempt clears the contents.|Нова спроба очистить вміст.|Un nuevo intento vacía el almacén.
+Босс-бар: включён|Boss bar: visible|Смуга боса: видима|Barra de jefe: visible
+Босс-бар: скрыт|Boss bar: hidden|Смуга боса: схована|Barra de jefe: oculta
+Нажмите, чтобы переключить.|Click to toggle.|Натисніть, щоб перемкнути.|Pulsa para alternar.
+Задание и таймер продолжаются в фоне.|The quest and timer continue in the background.|Завдання й відлік тривають у тлі.|La misión y el temporizador siguen en segundo plano.
+Выбор сохраняется после переподключения.|Your choice is saved across logins.|Вибір зберігається після повторного входу.|Tu elección se guarda al volver a entrar.
+Моё задание|My quest|Моє завдання|Mi misión
+Мои награды|My rewards|Мої винагороди|Mis recompensas
+Нажмите на предмет, чтобы забрать его.|Click an item to claim it.|Натисніть предмет, щоб забрати його.|Pulsa un objeto para recogerlo.
+При полном инвентаре он останется здесь.|Items stay here if your inventory is full.|За повного інвентарю предмет залишиться тут.|Si tienes el inventario lleno, el objeto se queda aquí.
+Новая попытка удаляет все незабранные призы.|A new attempt clears all unclaimed prizes.|Нова спроба видаляє всі незабрані призи.|Un nuevo intento elimina los premios sin recoger.
+▸ Нажмите, чтобы забрать|▸ Click to claim|▸ Натисніть, щоб забрати|▸ Pulsa para recoger
+Выполните мини-задание, чтобы получить трофей.|Complete a mini quest to earn a trophy.|Виконайте мінізавдання, щоб отримати трофей.|Completa una minimisión para conseguir un trofeo.
+Предметы не попадают в карманы автоматически.|Claim items from this menu.|Забирайте предмети в цьому меню.|Recoge los objetos desde este menú.
+К заданию|Back to quest|До завдання|Volver a la misión
+Назад|Back|Назад|Atrás
+Далее|Next|Далі|Siguiente
+Трофеи текущей попытки|Current attempt trophies|Трофеї поточної спроби|Trofeos del intento actual
+Статистика записывается с обновления 1.4.0|Statistics are tracked since version 1.4.0|Статистика записується з версії 1.4.0|Se registran estadísticas desde la versión 1.4.0
+Предыдущая страница|Previous page|Попередня сторінка|Página anterior
+Следующая страница|Next page|Наступна сторінка|Página siguiente
+Нажмите, чтобы открыть профиль|Click to open profile|Натисніть, щоб відкрити профіль|Pulsa para abrir el perfil
+Сыграйте немного после обновления.|Play a little after updating.|Зіграйте трохи після оновлення.|Juega un poco después de actualizar.
+\s• Трай\s|\s• Attempt\s|\s• Спроба\s|\s• Intento\s
+Попытка ещё не завершена|Attempt still in progress|Спроба ще триває|Intento todavía en curso
+Нажмите: миры и статистика игроков|Click for worlds and player statistics|Натисніть, щоб переглянути світи й статистику|Pulsa para ver mundos y estadísticas
+Попытка не найдена|Attempt not found|Спробу не знайдено|Intento no encontrado
+Для трая #|Attempt #|Спроба #|El intento #
+\sпока нет записи.| has no record yet.| ще не має запису.| aún no tiene registro.
+Причина завершения не записана|End reason unavailable|Причину завершення не записано|Motivo de finalización sin registrar
+Выбор конкретной копии|Choose a backup|Вибір конкретної копії|Seleccionar una copia
+Перед откатом потребуется подтверждение|Restoring requires confirmation|Відновлення потребує підтвердження|La restauración requiere confirmación
+Начать новый трай?|Start a new attempt?|Почати нову спробу?|¿Iniciar un nuevo intento?
+Текущий трай завершится.|The current attempt will end.|Поточна спроба завершиться.|El intento actual terminará.
+Инвентари игроков будут очищены.|Player inventories will be cleared.|Інвентарі гравців буде очищено.|Se vaciarán los inventarios.
+Удалить старые каталоги?|Delete old folders?|Видалити старі папки?|¿Eliminar carpetas antiguas?
+Очистка завершена|Cleanup complete|Очищення завершено|Limpieza terminada
+Удалено:\s|Deleted:\s|Видалено:\s|Eliminados:\s
+Без копии сохранено:\s|Kept without backup:\s|Збережено без копії:\s|Conservados sin copia:\s
+Можно удалить:\s|Can delete:\s|Можна видалити:\s|Se pueden eliminar:\s
+Без копии сохранятся:\s|Kept if no backup:\s|Залишаться без копії:\s|Se conservarán sin copia:\s
+Готовые резервные копии останутся.|Completed backups remain available.|Готові резервні копії залишаться.|Las copias existentes se conservan.
+Откатить к этому сохранению?|Restore this backup?|Відновити цю копію?|¿Restaurar esta copia?
+Текущий прогресс будет заменён.|Current progress will be replaced.|Поточний прогрес буде замінено.|Se reemplazará el progreso actual.
+Сервер ОСТАНОВИТСЯ.|The server will stop.|Сервер зупиниться.|El servidor se detendrá.
+После остановки запустите сервер снова.|Start the server again once it stops.|Запустіть сервер після зупинки.|Vuelve a iniciar el servidor cuando se detenga.
+Выбран трай #|Selected attempt #|Вибрано спробу #|Intento seleccionado #
+Нажмите для подтверждения отката|Click to confirm restore|Натисніть для підтвердження відновлення|Pulsa para confirmar la restauración
+Готовых копий пока нет|No completed backups yet|Готових копій ще немає|Todavía no hay copias completas
+Копия появится после следующей смерти.|A backup will be created after the next death.|Копія з’явиться після наступної смерті.|Se creará una copia tras la próxima muerte.
+Шахтёр без выходных|Miner without a day off|Шахтар без вихідних|Minero sin descanso
+Сломай %d блоков|Break %d blocks|Зламай %d блоків|Rompe %d bloques
+Снести половину ландшафта|Demolish half the landscape|Знести половину краєвиду|Demoler medio paisaje
+Застройщик без разрешения|Builder without a permit|Забудовник без дозволу|Constructor sin licencia
+Поставь %d блоков|Place %d blocks|Постав %d блоків|Coloca %d bloques
+Вавилон за свой счёт|Babylon at your expense|Вавилон власним коштом|Babilonia a tu costa
+Профсоюз подземных жадин|Underground hoarders' union|Профспілка підземних скнар|Sindicato de avaros subterráneos
+Добудь руду: %d блока|Mine %d ore blocks|Видобудь %d блоків руди|Extrae %d bloques de mena
+Ночная смена охотника|Hunter's night shift|Нічна зміна мисливця|Turno nocturno del cazador
+Победи врагов: %d|Defeat %d enemies|Здолай %d ворогів|Derrota a %d enemigos
+Рыбный отдел без обеда|Fish counter without a lunch break|Рибний відділ без обіду|Pescadería sin pausa para comer
+Поймай улов: %d|Make %d catches|Зроби %d уловів|Consigue %d capturas
+Курьер без зарплаты|Unpaid courier|Кур’єр без зарплати|Mensajero sin sueldo
+Пройди %d м|Travel %d m|Пройди %d м|Recorre %d m
+Алмазы в обмен на позор|Diamonds for disgrace|Діаманти в обмін на ганьбу|Diamantes a cambio de vergüenza
+Алмазная руда: %d блока|Mine %d diamond ore blocks|Видобудь %d блоків діамантової руди|Extrae %d bloques de mena de diamante
+Подвиг принят! Награда в /quest rewards|Quest complete! Claim your reward in /quest rewards|Завдання виконано! Винагорода в /quest rewards|¡Misión cumplida! Recoge tu premio en /quest rewards
+Новое испытание:\s|New challenge:\s|Нове випробування:\s|Nuevo desafío:\s
+Пропущено|Skipped|Пропущено|Omitida
+Подвиг принят!|Quest complete!|Завдання виконано!|¡Misión cumplida!
+\s• Новое через\s|\s• Next in\s|\s• Наступне за\s|\s• Próxima en\s
+\s• до смены\s|\s• changes in\s|\s• до зміни\s|\s• cambia en\s
+Задания доступны в мирах текущей попытки.|Quests are available in the current attempt worlds.|Завдання доступні у світах поточної спроби.|Las misiones están disponibles en los mundos del intento actual.
+Следующее задание через\s|Next quest in\s|Наступне завдання за\s|Próxima misión en\s
+Не удалось сохранить пропуск. Задание осталось активным.|Could not save the skip. The quest remains active.|Не вдалося зберегти пропуск. Завдання ще активне.|No se guardó la omisión. La misión sigue activa.
+Пропущено без награды. Новое через\s|Skipped without reward. Next in\s|Пропущено без винагороди. Наступне за\s|Omitida sin recompensa. Próxima en\s
+Не удалось сохранить настройку. Попробуйте позже.|Could not save settings. Try again later.|Не вдалося зберегти налаштування. Спробуйте пізніше.|No se guardó el ajuste. Inténtalo más tarde.
+Босс-бар скрыт. Прогресс продолжает считаться.|Boss bar hidden. Progress is still tracked.|Смугу боса сховано. Прогрес враховується.|Barra de jefe oculta. Se sigue registrando el progreso.
+Босс-бар включён.|Boss bar visible.|Смуга боса видима.|Barra de jefe visible.
+Команда /kill|The /kill command|Команда /kill|Comando /kill
+Граница мира|World border|Межа світу|Borde del mundo
+Опасное прикосновение|Dangerous contact|Небезпечний дотик|Contacto peligroso
+Куст оказался сильнее|The bush won|Кущ переміг|Ganó el arbusto
+Острый конец приключения|A sharp end to the adventure|Гострий кінець пригоди|Un final puntiagudo
+Сосулька с доставкой|Stalactite delivery|Доставка сталактита|Entrega de estalactita
+Последний удар|The final blow|Останній удар|El golpe final
+Размашистый удар|Sweeping blow|Розмашистий удар|Golpe de barrido
+Последний выстрел|The final shot|Останній постріл|El disparo final
+Застрял в блоках|Trapped inside blocks|Застряг у блоках|Atrapado entre bloques
+Гравитация победила|Gravity won|Гравітація перемогла|Ganó la gravedad
+Слишком горячо|Too hot|Надто гаряче|Demasiado calor
+Не успел потушиться|Burned too long|Не встиг загасити вогонь|Ardió demasiado tiempo
+Растаял|Melted|Розтанув|Se derritió
+Искупался в лаве|A swim in lava|Купання в лаві|Un baño en lava
+Забыл подышать|Forgot to breathe|Забув дихати|Olvidó respirar
+Взрывной финал|An explosive finale|Вибуховий фінал|Un final explosivo
+Объятия со взрывом|An explosive hug|Вибухові обійми|Un abrazo explosivo
+Билет в пустоту|A ticket to the void|Квиток у порожнечу|Un billete al vacío
+Персональная гроза|A personal thunderstorm|Особиста гроза|Una tormenta personal
+Сам себе противник|Their own worst enemy|Сам собі ворог|Su peor enemigo
+Обед отменяется|Lunch is cancelled|Обід скасовано|Se cancela el almuerzo
+Не тот напиток|The wrong drink|Не той напій|La bebida equivocada
+Фокус не удался|The trick went wrong|Фокус не вдався|El truco salió mal
+Иссушающий финал|A withering finale|Висушливий фінал|Un final marchito
+Доставка сверху|Delivery from above|Доставка згори|Entrega desde arriba
+Урон вернулся|Damage returned|Шкода повернулася|El daño volvió
+Дыхание дракона|Dragon's breath|Дихання дракона|Aliento de dragón
+Стена оказалась прочнее|The wall was stronger|Стіна виявилася міцнішою|El muro era más fuerte
+Пол — это лава|The floor is lava|Підлога — це лава|El suelo es lava
+Присел у костра|Sat by the campfire|Присів біля багаття|Se sentó junto a la hoguera
+Слишком тесная компания|A little too crowded|Занадто тісно|Demasiada gente
+Без воды никак|Needed water|Потрібна вода|Hacía falta agua
+Совсем остыл|Frozen solid|Замерз ущент|Se congeló por completo
+Бас от вардена|Warden bass drop|Бас від вардена|El bajo del warden
+Необычный финал|An unusual ending|Незвичний фінал|Un final inusual
+Причина неизвестна|Unknown cause|Причина невідома|Causa desconocida
+Лицензия на владение палкой|Stick ownership license|Ліцензія на володіння палицею|Licencia para poseer un palo
+Действительна, только если палка уже ваша.|Valid only if you already own the stick.|Дійсна, лише якщо палиця вже ваша.|Válida solo si el palo ya es tuyo.
+Квадратный метр ипотечного ада|A square metre of mortgage hell|Квадратний метр іпотечного пекла|Un metro cuadrado de infierno hipotecario
+Первый взнос внесён. Осталось 327 лет.|Deposit paid. Only 327 years to go.|Перший внесок сплачено. Залишилося 327 років.|Entrada pagada. Solo quedan 327 años.
+Акция ОАО «Один колос»|A share in One Stalk Inc.|Акція АТ «Один колос»|Una acción de Una Espiga S.A.
+Дивиденды выплачиваются исключительно надеждами.|Dividends paid exclusively in hope.|Дивіденди виплачують винятково надіями.|Los dividendos se pagan solo con esperanza.
+Перо главного бездельника|Chief idler's feather|Перо головного ледаря|Pluma del holgazán jefe
+Заверяет, что вы устали совершенно официально.|Certifies you are officially tired.|Засвідчує, що ви офіційно втомилися.|Certifica que estás oficialmente cansado.
+Шаурма с вокзала Эндермира|Shawarma from End Station|Шаурма з вокзалу Енду|Shawarma de la estación del End
+Срок годности истёк ещё в прошлом трае.|Expired in the previous attempt.|Термін придатності сплив у попередній спробі.|Caducó en el intento anterior.
+Букет от администрации|A bouquet from the admins|Букет від адміністрації|Ramo de la administración
+Поливали вашими стараниями. Не помогло.|Watered with your effort. It didn't help.|Поливали вашими стараннями. Не допомогло.|Se regó con tu esfuerzo. No sirvió.
+Снежок с автографом солнца|Snowball signed by the sun|Сніжка з автографом сонця|Bola de nieve firmada por el sol
+Автограф исчез при попытке прочитать.|The autograph vanished when read.|Автограф зник під час читання.|El autógrafo desapareció al leerlo.
+Сертификат на половину ничего|Certificate for half of nothing|Сертифікат на половину нічого|Certificado por la mitad de nada
+Вторая половина выдаётся за новый подвиг.|Earn the other half with another feat.|Друга половина видається за новий подвиг.|Consigue la otra mitad con otra hazaña.
+Премия «Золотой гастрит»|Golden Gastritis Award|Премія «Золотий гастрит»|Premio Gastritis de Oro
+Торжественно не рекомендуется к употреблению.|Ceremonially unfit for consumption.|Урочисто не рекомендовано до вживання.|Solemnemente desaconsejado para el consumo.
+Кнопка вызова здравого смысла|Common sense call button|Кнопка виклику здорового глузду|Botón de llamada al sentido común
+Абонент временно недоступен.|The subscriber is temporarily unavailable.|Абонент тимчасово недоступний.|El abonado no está disponible.
+Мотыга заместителя генерального|Deputy director's hoe|Мотика заступника директора|Azada del subdirector
+Повышение без зарплаты и обязанностей.|A promotion without pay or duties.|Підвищення без зарплати й обов’язків.|Ascenso sin salario ni obligaciones.
+Поводок для невидимого начальника|Leash for an invisible boss|Повідець для невидимого начальника|Correa para un jefe invisible
+Начальник ушёл на обед. Навсегда.|The boss went to lunch. Forever.|Начальник пішов на обід. Назавжди.|El jefe salió a almorzar. Para siempre.
+Легендарная бесполезность. Вы это заслужили.|Legendarily useless. You earned it.|Легендарна марність. Ви це заслужили.|Legendariamente inútil. Te lo has ganado.
+Недостаточно прав.|Permission denied.|Недостатньо прав.|Permisos insuficientes.
+Не удалось выполнить действие. Подробности в консоли.|Action failed. See the console.|Не вдалося виконати дію. Подробиці в консолі.|Acción fallida. Consulta la consola.
+Один шанс: ошибка, проверьте консоль.|Один шанс: error, check the console.|Один шанс: помилка, перевірте консоль.|Один шанс: error, consulta la consola.
+Меню статистики доступно в игре.|The statistics menu is available in game.|Меню статистики доступне в грі.|El menú de estadísticas está disponible dentro del juego.
+Текущая попытка: #|Current attempt: #|Поточна спроба: #|Intento actual: #
+Личные задания доступны в игре.|Personal quests are available in game.|Особисті завдання доступні в грі.|Las misiones personales están disponibles dentro del juego.
+Причины:\s|Causes:\s|Причини:\s|Causas:\s
+/hcr scenetest list — доступные миниатюры.|/hcr scenetest list — available scenes.|/hcr scenetest list — доступні сцени.|/hcr scenetest list — escenas disponibles.
+История попыток пуста.|Attempt history is empty.|Історія спроб порожня.|El historial de intentos está vacío.
+идёт|in progress|триває|en curso
+завершён|finished|завершено|finalizado
+прерван|interrupted|перервано|interrumpido
+найден на диске|found on disk|знайдено на диску|encontrado en el disco
+время неизвестно|unknown duration|тривалість невідома|duración desconocida
+Миры:\s|Worlds:\s|Світи:\s|Mundos:\s
+[на диске]|[on disk]|[на диску]|[en disco]
+[удалён]|[deleted]|[видалено]|[eliminado]
+Завершение:\s|Ended:\s|Завершення:\s|Finalización:\s
+Копия для отката:\s|Restore backup:\s|Копія для відновлення:\s|Copia para restaurar:\s
+нет записи|no record|запису немає|sin registro
+есть|available|наявна|disponible
+/hcr history <номер> — миры и подробности попытки.|/hcr history <number> — worlds and attempt details.|/hcr history <номер> — світи й подробиці спроби.|/hcr history <número> — mundos y detalles del intento.
+/hcr history [номер попытки]|/hcr history [attempt number]|/hcr history [номер спроби]|/hcr history [número de intento]
+Ошибка чтения истории.|Could not read history.|Не вдалося прочитати історію.|No se pudo leer el historial.
+Дождитесь завершения сохранения.|Wait for saving to finish.|Дочекайтеся завершення збереження.|Espera a que termine el guardado.
+Ошибка очистки:\s|Cleanup error:\s|Помилка очищення:\s|Error de limpieza:\s
+Сохранений смерти пока нет.|No death backups yet.|Копій після смерті ще немає.|Todavía no hay copias tras muerte.
+Дождитесь завершения сброса и сохранения копии.|Wait for the reset and backup to finish.|Дочекайтеся завершення скидання й копіювання.|Espera a que terminen el reinicio y la copia.
+/hcr rollback confirm — вернуть последнее сохранение смерти. Сервер остановится; затем запустите его снова. Текущий прогресс будет заменён.|/hcr rollback confirm — restore the latest death backup. Start the server after it stops. This replaces current progress.|/hcr rollback confirm — відновити останню копію після смерті. Запустіть сервер після зупинки. Поточний прогрес буде замінено.|/hcr rollback confirm — restaura la última copia tras muerte. Inicia el servidor cuando se detenga. Se reemplazará el progreso actual.
+Не удалось выполнить операцию с копией:\s|Backup operation failed:\s|Не вдалося виконати операцію з копією:\s|Falló la operación de copia:\s
+Личные настройки доступны в игре.|Personal settings are available in game.|Особисті налаштування доступні в грі.|Los ajustes personales están disponibles dentro del juego.
+Личные настройки восстановлены.|Personal settings reset.|Особисті налаштування скинуто.|Se restablecieron los ajustes personales.
+Диапазон: volume 0–2, pitch 0.5–2, delay/fade 0–200 целых тиков.|Ranges: volume 0–2, pitch 0.5–2, delay/fade 0–200 whole ticks.|Діапазон: volume 0–2, pitch 0.5–2, delay/fade 0–200 цілих тіків.|Rangos: volume 0–2, pitch 0.5–2, delay/fade 0–200 ticks enteros.
+Новая попытка #|New attempt #|Нова спроба #|Nuevo intento #
+. Удачи!|. Good luck!|. Щасти!|. ¡Buena suerte!
+Ошибка сброса. Проверьте консоль и перезапустите сервер.|Reset failed. Check the console and restart the server.|Помилка скидання. Перевірте консоль і перезапустіть сервер.|Falló el reinicio. Consulta la consola y reinicia el servidor.
+Не удалось перенести в новую попытку. Подключитесь снова.|Could not transfer you to the new attempt. Reconnect.|Не вдалося перенести вас у нову спробу. Підключіться знову.|No se pudo trasladarte al nuevo intento. Vuelve a conectarte.
+Один шанс: ошибка, обратитесь к администратору.|Один шанс: error, contact an administrator.|Один шанс: помилка, зверніться до адміністратора.|Один шанс: error, contacta con un administrador.
+Создаётся новая попытка. Подключитесь через несколько секунд.|A new attempt is being created. Reconnect in a few seconds.|Створюється нова спроба. Підключіться за кілька секунд.|Se está creando un nuevo intento. Vuelve a conectarte en unos segundos.
+Один шанс: переход мира. Подключитесь через несколько секунд.|Один шанс: world transition. Reconnect in a few seconds.|Один шанс: зміна світу. Підключіться за кілька секунд.|Один шанс: cambio de mundo. Vuelve a conectarte en unos segundos.
+Не удалось вернуть на спавн. Подключитесь снова.|Could not return you to spawn. Reconnect.|Не вдалося повернути вас на спавн. Підключіться знову.|No se pudo devolverte al punto de aparición. Vuelve a conectarte.
+Новый мир. Новая жизнь.|A new world. A new life.|Новий світ. Нове життя.|Un mundo nuevo. Una vida nueva.
+Хардкор ·\s|Hardcore ·\s|Хардкор ·\s|Hardcore ·\s
+Хардкор · Попытка #|Hardcore · Attempt #|Хардкор · Спроба #|Hardcore · Intento #
+\s· Время:\s|\s· Time:\s|\s· Час:\s|\s· Tiempo:\s
+Удалено каталогов:\s|Folders deleted:\s|Видалено папок:\s|Carpetas eliminadas:\s
+Можно удалить каталогов:\s|Folders eligible for deletion:\s|Можна видалити папок:\s|Carpetas que se pueden eliminar:\s
+. Сохранено без копии:\s|. Kept without backup:\s|. Збережено без копії:\s|. Conservadas sin copia:\s
+/hcr cleanup confirm — удалить только выгруженные старые миры с готовой копией для отката.|/hcr cleanup confirm — delete unloaded old worlds with a completed backup.|/hcr cleanup confirm — видалити вивантажені старі світи з готовою копією.|/hcr cleanup confirm — elimina mundos antiguos descargados que tienen copia.
+Забрать награду можно во время игры в текущей попытке.|Claim rewards while playing in the current attempt.|Забирайте винагороди під час гри в поточній спробі.|Recoge tus recompensas mientras juegas en el intento actual.
+Эта награда уже забрана или началась новая попытка.|This reward was already claimed or a new attempt started.|Цю винагороду вже забрали або почалася нова спроба.|La recompensa ya se recogió o empezó otro intento.
+Освободите хотя бы один слот. Награда остаётся здесь.|Free an inventory slot. Your reward stays here.|Звільніть один слот. Винагорода залишиться тут.|Libera un espacio. La recompensa se queda aquí.
+Награда уже забрана.|Reward already claimed.|Винагороду вже забрано.|Recompensa ya recogida.
+Награда перемещена в ваш инвентарь.|Reward moved to your inventory.|Винагороду переміщено до вашого інвентарю.|Recompensa trasladada a tu inventario.
+Сброс администратором:\s|Reset by administrator:\s|Скидання адміністратором:\s|Reinicio por un administrador:\s
+Подготовлен откат. Сервер останавливается; подключитесь после запуска.|Restore scheduled. The server is stopping. Reconnect after restart.|Відновлення заплановано. Сервер зупиняється. Підключіться після запуску.|Restauración programada. El servidor se está deteniendo. Vuelve tras reiniciarlo.
+Один шанс: запуск не завершён. Проверьте консоль.|Один шанс: startup incomplete. Check the console.|Один шанс: запуск не завершено. Перевірте консоль.|Один шанс: inicio incompleto. Consulta la consola.
+%.1f км|%.1f km|%.1f км|%.1f km

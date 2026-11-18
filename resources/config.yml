@@ -1,0 +1,97 @@
+# Язык интерфейса сервера: ru, en, uk, es. Применяется после перезапуска.
+language: ru
+reset-delay-seconds: 3
+# Старые миры удаляются только после создания готовой копии для отката.
+# Копии в death-backups остаются; исходный мир сервера сохраняется.
+delete-old-worlds: true
+# Миры попыток всегда имеют hardcore=true и сложность HARD.
+effects:
+  volume: 1.0
+  pitch: 1.0
+  delay: 0
+  fade: 20
+  title: true
+  blindness: true
+  # Пустой sound или particle отключает этот эффект. Частицы без дополнительных данных.
+  start:
+    sound: minecraft:block.respawn_anchor.charge
+    particle: minecraft:totem_of_undying
+    count: 45
+    spread-x: 0.5
+    spread-y: 0.7
+    spread-z: 0.5
+    speed: 0.1
+  finish:
+    sound: minecraft:block.amethyst_block.chime
+    particle: minecraft:end_rod
+    count: 24
+    spread-x: 0.7
+    spread-y: 0.8
+    spread-z: 0.7
+    speed: 0.02
+    # delay-ticks: 20 # по умолчанию зависит от fade
+death-screen:
+  enabled: true
+  # Причина в чате и истории: {player}, {killer}, {cause}, {vanilla}.
+  message: '{vanilla}'
+  # subtitle: '&f{player} · #{attempt}'
+  clown:
+    enabled: true
+    # caption: "&6Получи новую попытку!\nНовый мир ждёт."
+    # color: 16766720 # RGB в десятичной записи
+  # Ключи причин: /hcr scenetest list. Пример:
+  # causes:
+  #   lava:
+  #     message: '&c{player} погиб в лаве'
+  #     caption: '&6Лава'
+  #     miniature: true
+  #     motion: BURN
+  #     material: MAGMA_BLOCK
+  #     particle-color: 16737792
+  #     impact-sound: minecraft:entity.player.hurt
+  #     projectile-sound: minecraft:entity.arrow.shoot
+  # Круглая мордочка клоуна из цветных частиц перед камерой. Ресурс-пак не нужен.
+  # 20 тиков = 1 секунда.
+  fade-in-ticks: 10
+  hold-ticks: 24
+  fade-out-ticks: 16
+  particle-interval-ticks: 3
+  miniature:
+    enabled: true
+    # Миниатюра перед клоуном: 40–120 тиков. Переход мира дождётся конца обеих анимаций.
+    duration-ticks: 80
+micro-quests:
+  enabled: true
+  # Новый цикл каждые 5–20 минут активной игры. Невыполненное задание сменится без награды.
+  min-interval-minutes: 5
+  max-interval-minutes: 20
+health-hud:
+  # Ник и количество сердец справа. Если слот занят чужим плагином, не перезаписывать его.
+  enabled: true
+  # Сердца рядом с игроками в Tab, где стандартный клиент уже отображает головы.
+  tab-hearts: true
+  # Передать слот списка игроков плагину TAB, если он установлен на этом сервере.
+  delegate-tab: false
+rare-mob-sounds:
+  enabled: true
+  # 0.005 = 0.5% за минуту активной игры для каждого игрока (в среднем раз в ~3ч20м).
+  chance-per-minute: 0.005
+  join-grace-seconds: 120
+  cooldown-seconds: 600
+  volume: 0.45
+
+
+# Слоты 0–53. swaps меняет позиции вместе с действиями. items использует исходный слот.
+# Экраны: stats, quest, settings, rewards, profile, leaders, records, admin, backups, confirm, message, error.
+# Пример перестановки кнопок «Лучшие траи» и «Игроки» в /hcr:
+# menus:
+#   stats:
+#     title: '&8{title}'
+#     swaps: ['10:12']
+#     items:
+#       '10':
+#         material: GOLD_INGOT
+#         enabled: true
+#         name: '&6Рекорды' # {name} подставляет исходное имя
+#         lore: ['&7Лучшие попытки сервера']
+menus: {}

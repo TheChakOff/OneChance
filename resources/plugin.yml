@@ -1,0 +1,25 @@
+name: OneChance
+version: 2.0.1
+softdepend: [DHSupport, PlaceholderAPI, TAB, Vault]
+main: Main
+api-version: '1.21.1'
+description: Один шанс. Общие хардкорные попытки с новым миром после смерти.
+commands:
+  quest:
+    description: Личное задание, награды и управление босс-баром
+    aliases: [microquest]
+  stats:
+    description: Открыть меню статистики хардкора
+    aliases: [hcrstats]
+  try:
+    description: Номер текущей попытки
+    aliases: [attempt]
+  survived:
+    description: Номер и время текущей попытки
+    aliases: [trytime]
+  hcr:
+    description: Меню статистики и управления плагином «Один шанс»
+    usage: /hcr [stats|quest|rewards|settings|admin|history|test|deathtest|scenetest|soundtest|volume|pitch|delay|fade|reset|forcereset|backups|rollback|cleanup]
+permissions:
+  hardcorereset.admin:
+    default: op
